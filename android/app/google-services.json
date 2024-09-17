@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510672202805",
+    "project_id": "mind-glow-d6e40",
+    "storage_bucket": "mind-glow-d6e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510672202805:android:7fdaa26ac84b591206557c",
+        "android_client_info": {
+          "package_name": "com.example.mind_glow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvgZifjGy9_sbUReLlbkGvG7xi2cYbck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510672202805:android:af736bfebc0d673e06557c",
+        "android_client_info": {
+          "package_name": "com.example.mindglow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvgZifjGy9_sbUReLlbkGvG7xi2cYbck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
